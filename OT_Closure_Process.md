@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD
-    A[Start] --> B["Procurement of HEPA filter (Concession Company)"]
+    A[Start] --> B["Procurement of HEPA filter (CC)"]
     B --> C["Repair/Replacement Areas Identification (User + CC)"]
     C --> D["Repair Request Issuance (User)"]
     D --> E["Readiness Check (CC: Man, Method, Material, Machine)"]
